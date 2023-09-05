@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1693942214 source:c:\users\shakie\desktop\code practice\cpp practice\security system\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
